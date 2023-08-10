@@ -18,4 +18,5 @@ This project is aimed at analyzing the performance of different types of vehicle
 </ul>
 <li><a href="https://github.com/saipradyumnanprem">Sai Pradyumnan Prem</a></li>
 <li><a href="https://github.com/Yaswanthraj9">Yaswanthraj SP</a></li>
+<li><a href="https://github.com/dvamsidhar2002">D VAMSIDHAR</a></li>
 </ul>
